@@ -35,3 +35,5 @@ Rialloocare nuova memoria dinamicamente quando una struttura dati non riesce pi√
 4) Copiare il valore del nuovo puntatore in quello vecchio con un operazione di assegnamento
 
 # Puntatori 3 Puntatori a funzione
+
+I puntatori a funzione possono essere utili quando una funzione deve ritornare un numero indefinito di valori che non pu√≤ essere assegnato in fase di compilazione
