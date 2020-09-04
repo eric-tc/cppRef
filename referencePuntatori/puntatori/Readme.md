@@ -34,6 +34,15 @@ Rialloocare nuova memoria dinamicamente quando una struttura dati non riesce pi�
 
 4) Copiare il valore del nuovo puntatore in quello vecchio con un operazione di assegnamento
 
-# Puntatori 3 Puntatori a funzione
+# Puntatori 3 Funzioni Puntatori
 
-I puntatori a funzione possono essere utili quando una funzione deve ritornare un numero indefinito di valori che non può essere assegnato in fase di compilazione
+Funzioni puntatore sono funzioni che sono definite come puntatori possono essere utili quando una funzione deve ritornare un numero indefinito di valori che non può essere assegnato in fase di compilazione
+
+# Puntatori 4 Puntaori void*
+
+I puntatori void* sono particolari costrutti a cui posso assegnare qualsiasi tipo a runtime.
+
+# Puntatori 5 passare i puntatori come parametri a funzione
+
+Esempio per vedere come passare correttamente i puntatori come parametri ad una funzione.
+Utilizzo di argc e argv

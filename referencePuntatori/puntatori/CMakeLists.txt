@@ -13,4 +13,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 #puntatori 3
 
-add_executable(puntatori puntatori3.cpp)
+add_executable(puntatori puntatori5.cpp)
