@@ -1,4 +1,6 @@
 pthread/build
 referencePuntatori/puntatori/build
 referencePuntatori/reference/build
-
+lambda/build
+onnxruntime-typedef/build
+coreDump/build
